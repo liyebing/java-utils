@@ -1,4 +1,3 @@
-package com.meituan.mobile.movie.common.pagination;
 
 import java.io.Serializable;
 import java.util.Collections;
